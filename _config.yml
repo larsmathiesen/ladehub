@@ -4,6 +4,8 @@ baseurl: /ladehub
 title: Ladehub
 email: post@ladehub.com
 description: "Ladehub er en app for iPhone og (snart) Android, som viser ladestasjoner for elbiler i Norge, Sverige og Finland. Den viser ladestasjoner fra Nobil sin database."
+#appstoreurl: https://itunes.apple.com/no/app/soccer-scores-pro-fotmob/id488575683_test
+appstoreurl: http://www.ladehub.com
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
