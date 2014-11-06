@@ -443,3 +443,35 @@ footer .footer-below {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+
+.carousel {
+	width: 768px;
+	
+}
+.carousel-control {
+    background-image: none;
+    @include reset-filter();	
+	position: absolute;
+	top: 50%;
+	left: 15px;
+	width: 40px;
+	height: 40px;
+	margin-top: -20px;
+	font-size: 60px;
+	font-weight: 100;
+	line-height: 30px;
+	color: #ffffff;
+	text-align: center;
+	background: #222222;
+	border: 3px solid #ffffff;
+	border-radius: 23px;
+	opacity: 0.5;
+}
+ .carousel-control.right {
+    right: 15px;
+left: auto;
+}
+.carousel .item {
+	max-height: 200px;
+	/* width: 60%; */
+}
