@@ -17,6 +17,8 @@ social:
     url: http://twitter.com/ladehub
   - title: facebook
     url: https://www.facebook.com/ladehub
+  - title: envelope
+    url: mailto:post@ladehub.com
 
 
 # Postal address (add as many lines as necessary)
